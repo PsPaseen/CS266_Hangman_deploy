@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CS266_Hangman_deploy/static/css/main.be5cbd5b.chunk.css",
+    "main.js": "/CS266_Hangman_deploy/static/js/main.be7ea0a5.chunk.js",
+    "main.js.map": "/CS266_Hangman_deploy/static/js/main.be7ea0a5.chunk.js.map",
+    "runtime-main.js": "/CS266_Hangman_deploy/static/js/runtime-main.40a7d88c.js",
+    "runtime-main.js.map": "/CS266_Hangman_deploy/static/js/runtime-main.40a7d88c.js.map",
+    "static/js/2.72185cc8.chunk.js": "/CS266_Hangman_deploy/static/js/2.72185cc8.chunk.js",
+    "static/js/2.72185cc8.chunk.js.map": "/CS266_Hangman_deploy/static/js/2.72185cc8.chunk.js.map",
+    "index.html": "/CS266_Hangman_deploy/index.html",
+    "precache-manifest.272ba4984fd76c9def0a84f1de27fb0b.js": "/CS266_Hangman_deploy/precache-manifest.272ba4984fd76c9def0a84f1de27fb0b.js",
+    "service-worker.js": "/CS266_Hangman_deploy/service-worker.js",
+    "static/css/main.be5cbd5b.chunk.css.map": "/CS266_Hangman_deploy/static/css/main.be5cbd5b.chunk.css.map",
+    "static/js/2.72185cc8.chunk.js.LICENSE.txt": "/CS266_Hangman_deploy/static/js/2.72185cc8.chunk.js.LICENSE.txt",
+    "static/media/6n.png": "/CS266_Hangman_deploy/static/media/6n.8ae86b25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a7d88c.js",
+    "static/js/2.72185cc8.chunk.js",
+    "static/css/main.be5cbd5b.chunk.css",
+    "static/js/main.be7ea0a5.chunk.js"
+  ]
+}
